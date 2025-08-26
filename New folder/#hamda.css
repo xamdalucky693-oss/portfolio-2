@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 0ch;
+    padding: 0ch;
+}
+header{
+    background-color: #4caf50;
+    color: white;
+    border-radius: 5px;
+}
